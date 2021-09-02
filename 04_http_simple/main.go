@@ -11,7 +11,7 @@ import (
 	data together. Like a book or a person
 	for example.
 
-	This is called an Abstract Data Type.
+	This is called an Aggregate Data Type.
 
 	The `json:"var_name"` will set the var_name
 	in the json.  So the var 'title' will access
